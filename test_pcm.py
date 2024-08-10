@@ -11,7 +11,7 @@ def run(i: int):
     j = 0
     while (j < 1):
         t1 = time.time()
-        filename = '4.pcm';
+        filename = 'testdata/4.pcm';
         
         file = open(filename, 'rb');
         
